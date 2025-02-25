@@ -24,7 +24,7 @@ This improves performance by freeing up the processor to handle other tasks inst
 ---
 
 ## 📷 Circuit Schematic  
-![AXI DMA Controller Schematic](docs/images/dma_schematic.png)
+![AXI DMA Controller Schematic](dma_controller.jpeg)
 
 ### 🔹 **How It Works**  
 1️⃣ **AXI Master reads data from source memory**  
