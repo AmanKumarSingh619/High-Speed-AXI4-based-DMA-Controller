@@ -33,7 +33,3 @@ This improves performance by freeing up the processor to handle other tasks inst
 4️⃣ **Interrupt signals notify the processor when the transfer is complete**  
 
 By implementing **burst-based data movement**, the controller achieves **high efficiency with reduced latency**.  
-
----
-
-## 📂 Repository Structure  
